@@ -1,3 +1,3 @@
 # springcloud-config
 
-This Repository is global control center for SpringCloud2021 project.
+This Repository is global config center for SpringCloud2021 project.
